@@ -33,3 +33,13 @@ Pendiente. Se documenta en el Hito 2.
 -Trabajar siempre desde `C:\dev\` o equivalente, nunca desde carpetas sincronizadas con OneDrive.
 -Usar Git Bash, no PowerShell.
 -Ejecutar una vez por clon: `git config core.hooksPath .githooks`
+
+## API de cursos
+
+Se agregó un endpoint para consultar la versión actual de la API:
+
+GET /version
+
+Respuesta:
+
+{ "version": "1.0.0" }
