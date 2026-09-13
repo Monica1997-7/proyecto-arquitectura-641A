@@ -1,0 +1,37 @@
+{
+  "name": "proyecto-arquitectura-641a",
+  "version": "1.0.0",
+  "description": "Proyecto de la asignatura Arquitectura de Sistemas Computacio nales. ## Problema Dos o tres lineas sobre que problema resuelve el sistema y para quien. ## Integrantes",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only ./src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Monica1997-7/proyecto-arquitectura-641A.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Monica1997-7/proyecto-arquitectura-641A/issues"
+  },
+  "homepage": "https://github.com/Monica1997-7/proyecto-arquitectura-641A#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^22.20.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.9.2"
+  }
+}
