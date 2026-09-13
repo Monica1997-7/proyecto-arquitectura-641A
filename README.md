@@ -14,17 +14,14 @@ Dos o tres lineas sobre que problema resuelve el sistema y para quien.
 | Hito | Estado | Tag |
 |---|---|---|
 | Hito 1 - Requerimientos y arquitectura | En curso | |
-| Hito 2 - Infraestructura, red, datos y seguridad | Pendient
-e | |
-| Hito 3 - Automatizacion, observabilidad y costos | Pendient
-e | |
+| Hito 2 - Infraestructura, red, datos y seguridad | Pendiente | |
+| Hito 3 - Automatizacion, observabilidad y costos | Pendiente | |
 | Hito 4 - Sustentacion | Pendiente | |
 | Hito 5 - Dossier final | Pendiente | |
 ## Estructura del repositorio
 | Carpeta | Contenido |
 |---|---|
-| `docs/` | Documentacion de arquitectura, requerimientos y d
-ecisiones |
+| `docs/` | Documentacion de arquitectura, requerimientos y decisiones |
 | `docs/adr/` | Registros de decision arquitectonica |
 | `src/` | Codigo de la aplicacion |
 | `infra/` | Configuracion de infraestructura |
